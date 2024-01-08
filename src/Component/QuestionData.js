@@ -1,52 +1,52 @@
 export const QuestionData = [
     {
-        question: " Question 1?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 0 // Index of the correct option (0 for Option A)
+        question: "question 1",
+        options:[ "A", "B", "C", "D"],
+        answer: 2                                 //note that the index is starting from 1.
     },
     {
-        question: " Question 2?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 1 // Index of the correct option (1 for Option B)
+        question: "question 2",
+        options:[ "A", "B", "C", "D"],
+        answer: 1
     },
     {
-        question: " Question 3?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 2 // Index of the correct option (2 for Option C)
+        question: "question 3",
+        options:[ "A", "B", "C", "D"],
+        answer: 2
     },
     {
-        question: " Question 4?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 3 // Index of the correct option (3 for Option D)
+        question: "question 4",
+        options:[ "A", "B", "C", "D"],
+        answer: 3
     },
     {
-        question: "Question 5?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 0 // Index of the correct option (0 for Option A)
+        question: "question 5",
+        options:[ "A", "B", "C", "D"],
+        answer: 4
     },
     {
-        question: " Question 6?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 1 // Index of the correct option (1 for Option B)
+        question: "question 6",
+        options:[ "A", "B", "C", "D"],
+        answer: 3
     },
     {
-        question: " Question 7?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 2 // Index of the correct option (2 for Option C)
+        question: "question 7",
+        options:[ "A", "B", "C", "D"],
+        answer: 1
     },
     {
-        question: " Question 8?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 3 // Index of the correct option (3 for Option D)
+        question: "question 8",
+        options:[ "A", "B", "C", "D"],
+        answer: 2
     },
     {
-        question: " Question 9?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 0 // Index of the correct option (0 for Option A)
+        question: "question 9",
+        options:[ "A", "B", "C", "D"],
+        answer: 4
     },
     {
-        question: " Question 10?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        answer: 1 // Index of the correct option (1 for Option B)
+        question: "question 10",
+        options:[ "A", "B", "C", "D"],
+        answer: 3
     }
 ];
